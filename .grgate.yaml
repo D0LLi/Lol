@@ -1,4 +1,10 @@
 statuses:
+  - name: "ci/circleci: build"
+    description: "CircleCI build status"
+  - name: "codecov/project"
+    description: "Codecov coverage status"
+
+statuses:
   - pending
   - success
   - failure
