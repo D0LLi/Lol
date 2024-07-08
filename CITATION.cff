@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Lol"
+authors:
+  - family-names: "Super"
+    given-names: "Block"
+version: "1.0.0"
+date-released: "2023-10-12"
+url: "https://github.com/D0LLi/Lol"
+repository-code: "https://github.com/D0LLi/Lol"
+license: "Unlicense"
+abstract: "Lol is a software project focusing on the super_block structure in file systems, allowing enhanced manipulation and testing."
+keywords:
+  - super_block
+  - file_system
+  - fs_context
+citation:
+  - type: software
+    authors:
+      - family-names: "Super"
+        given-names: "Block"
+    title: "Lol"
+    version: "1.0.0"
+    url: "https://github.com/D0LLi/Lol"
