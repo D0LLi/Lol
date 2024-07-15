@@ -1,0 +1,17 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "Lol",
+  "description": "No description provided.",
+  "version": "1.0.0",
+  "author": {
+    "@type": "Person",
+    "name": "No author provided."
+  },
+  "license": "No license provided.",
+  "codeRepository": "https://github.com/D0LLi/Lol",
+  "issueTracker": "https://github.com/D0LLi/Lol/issues",
+  "dateCreated": "2023-10-05",
+  "dateModified": "2023-10-05",
+  "developmentStatus": "active"
+}
